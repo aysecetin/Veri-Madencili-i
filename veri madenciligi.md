@@ -1,4 +1,6 @@
-# 📌 Veri Madenciliği Nedir?
+# 📘 Bölüm 1: Giriş
+
+## 📌 Veri Madenciliği Nedir?
 - Büyük veri yığınlarından önceden bilinmeyen, faydalı, anlamlı bilgilerin çıkarılması sürecidir.
 
 - Basit sorgulama ve istatistik yöntemleri veri madenciliği değildir.
