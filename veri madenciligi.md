@@ -41,7 +41,7 @@
 
 - Ağ güvenliği, web madenciliği
 
-### 🚨 Sorunlar:
+### 🚨 Sorunlar:
 - Gizlilik (kişisel verilerin izinsiz kullanımı)
 
 - Kullanıcı arayüzü eksikliği
