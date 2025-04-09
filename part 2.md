@@ -1,6 +1,6 @@
 # 📙 Bölüm 2: Veri Önişleme
 
-### 📌 Neden Veri Önişleme Gerekli?
+### 📌 Neden Veri Önişleme Gerekli?
 - Gerçek veriler eksik, gürültülü, tutarsız olabilir.
 - Kalitesiz veri → Kalitesiz madencilik sonucu
 
